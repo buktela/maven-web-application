@@ -94,14 +94,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.4.141:8181/mylandmarktech/repository/tesla-web-releases/</url>
+	      <name>Booking Services Releases Nexus Repository</name>
+	      <url>http://44.210.242.182:1729/yubinax/repository/telcom-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.4.141:8181/mylandmarktech/repository/tesla-webapp-snapshots/</url>
+	      <name>Booking Services Snapshot Nexus Repository </name>
+	      <url>http://44.210.242.182:1729/yubinax/repository/telcom-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
